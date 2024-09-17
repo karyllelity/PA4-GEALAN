@@ -27,6 +27,8 @@ Gealan, Karylle Marjorie O. https://www.facebook.com/karmageee
 
 ## Version History
 
+- 1.4
+    - Uploaded the final output (GEALAN-FINAL-PA4).
 - 1.3
     - Edited the ReadMe file.
 - 1.2
